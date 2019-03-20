@@ -92,7 +92,8 @@ and order them according to their energy.  A usage example is:
 python G09OutputSummarizer.py 10 > RASS.results
 ```
 where 10 is the number of candidate structures designated in the RASS.in file.  Executing the above command writes the optimization
-results to a file called 'RASS.results'.
+results to a file called 'RASS.results'.  An example of RASS.results based on Gaussian09 optimization of 250 candidate structures
+of Si8 species is provided in this repository.
 
 
 ## Using RASS Without Gaussian09
