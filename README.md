@@ -103,7 +103,7 @@ If usage of a candidate structure optimization package other than Gaussian09 is 
 then removing the following code (lines 227-230) from RASS.py will alter the program to 
 only write the atomic coordinates of generated candidate structures.  The lines which should be removed 
 are shown below:
-<br>git a
+<br>
 ```Python
         output.write("%mem=4gb\n")
         output.write("# RB3LYP/LANL2DZ Opt=maxcycles=50\n")
