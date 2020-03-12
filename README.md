@@ -24,7 +24,7 @@ for candidate structure geometry initialization.
 ## Author: W. C. McKee on Behalf of the Xu Group at LSU
 * <a href="https://github.com/chadm9">W. C. McKee's GitHub</a>
 * <a href="https://www.linkedin.com/in/w-chad-mckee-88939163/">W. C. McKee's LinkedIn</a>
-* <a href="https://sites01.lsu.edu/faculty/yexu/">Xu Group Website (Computational Catalysis and Surface Chemistry)</a>
+* <a href="https://compucat.lsu.edu/">Xu Group Website (Computational Catalysis and Surface Chemistry)</a>
 
 
 ## Languages and Technologies used
